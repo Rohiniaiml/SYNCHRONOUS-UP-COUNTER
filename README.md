@@ -57,7 +57,8 @@ However, the remaining flip-flops should be made ready to toggle only when all l
 
 # TIMING DIAGRAM FOR IP COUNTER
 
-![Screenshot 2024-12-22 133044](https://github.com/user-attachments/assets/754ee35c-761d-45a1-90c1-0a6a12111fdf)
+![WhatsApp Image 2025-01-06 at 11 10 28_1b63379d](https://github.com/user-attachments/assets/20760672-945f-4554-9ac7-83faa10889f8)
+
 
 # RESULT
 Thus,the 4-bit synchronus Up counter implemented successfully.
